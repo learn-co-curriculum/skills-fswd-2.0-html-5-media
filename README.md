@@ -71,7 +71,7 @@ sources within the `<video>` tag will be ignored.
 
 ## Link to Audio and Video Converters
 
-In order to provide a wide variety of different file types, we'll need to convert our original files. There are a number of free tools that have been trusted in the past to convert audio files when needed.
+In order to provide a wide variety of different file types, we'll need to convert our original files. There are a number of free tools that have been trusted to convert audio files when needed.
 [MediaHuman - Free Audio Converter](http://www.mediahuman.com/audio-converter/)
 and [Audacity - Free Audio Editor/Converter](https://sourceforge.net/projects/audacity/) are two we recommend.
 
