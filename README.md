@@ -2,10 +2,11 @@
 
 ## Problem Statement
 
-The internet is a highly interactive environment, with almost as many different devices and platforms as we have users. As HTML authors, we might be
-given a media file and be told to put it on the internet. How can we display
-media inside of a web page and make sure that it's viewable to the most
-people possible on the most devices?
+The internet is a highly interactive environment, with almost as many different
+devices and platforms as we have users. As HTML authors, we might be given a
+media file and be told to put it on the internet. How can we display media
+inside of a web page and make sure that it's viewable to the most people
+possible on the most devices?
 
 ## Overview
 
@@ -71,7 +72,9 @@ sources within the `<video>` tag will be ignored.
 
 ## Link to Audio and Video Converters
 
-In order to provide a wide variety of different file types, we'll need to convert our original files. There are a number of free tools that have been trusted to convert audio files when needed.
+In order to provide a wide variety of different file types, we'll need to
+convert our original files. There are a number of free tools that have been
+trusted to convert audio files when needed.
 [MediaHuman - Free Audio Converter](http://www.mediahuman.com/audio-converter/)
 and [Audacity - Free Audio Editor/Converter](https://sourceforge.net/projects/audacity/) are two we recommend.
 
