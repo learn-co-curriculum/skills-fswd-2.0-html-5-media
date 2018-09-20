@@ -71,16 +71,15 @@ sources within the `<video>` tag will be ignored.
 
 ## Link to Audio and Video Converters
 
-There are a number of free tools that will convert audio files when needed.
+In order to provide a wide variety of different file types, we'll need to convert our original files. There are a number of free tools that have been trusted in the past to convert audio files when needed.
 [MediaHuman - Free Audio Converter](http://www.mediahuman.com/audio-converter/)
-and [Audacity - Free Audio Editor/Converter](https://sourceforge.net/projects/audacity/) are two we recommend. For a comparison of support levels for various players, see 
-[JavaScript HTML5 Video Player Comparison](https://praegnanz.de/html5video/)
+and [Audacity - Free Audio Editor/Converter](https://sourceforge.net/projects/audacity/) are two we recommend.
 
 ## Conclusion
 
 With `audio` and `video` tags, the W3C gives us an open way to ensure that
 media remain accessible and open to all platforms.
 
-[mimetypes]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types
+
 [audio]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio
 [video]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video
