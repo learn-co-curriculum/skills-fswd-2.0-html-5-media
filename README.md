@@ -3,17 +3,16 @@
 ## Problem Statement
 
 The internet is a highly interactive environment, with almost as many different
-devices and platforms as we have users. As HTML authors, we might be given a
-media file and be told to put it on the internet. How can we display media
-inside of a web page and make sure that it's viewable to the most people
-possible on the most devices?
+devices and platforms as users. As HTML authors, we might be given a media file
+and be told to put it on the internet. How can we display media inside of a web
+page and make sure that it's viewable to the most people possible on the most
+devices?
 
 ## Overview
 
-1. Demonstrate how to embed audio elements in HTML5
-2. Demonstrate how to embed video elements in HTML5
-3. Link to audio and video converters
-
+1.  Demonstrate how to embed audio elements in HTML5
+2.  Demonstrate how to embed video elements in HTML5
+3.  Link to audio and video converters
 
 ## Demonstrate How to Embed Audio Elements in HTML5
 
@@ -33,11 +32,11 @@ Let's look at an example:
 
 On the first line we open the `<audio>` tag with the `controls` attribute
 present. This displays the audio controls to start and pause playback, adjust
-the recording's volume, and other standard audio functions.  The presence of the
-`controls` attribute name tells the control panel to display. There are optional
-attributes you can provide such as `autoplay` and `loop`. These start the audio
-on page load and repeat the audio after it ends. The [documentation][audio]
-lists all available options.
+the recording's volume, and other standard audio functions. The presence of the
+`controls` attribute name tells the browser to display the control panel. There
+are optional attributes you can provide such as `autoplay` and `loop`. These
+start the audio on page load and repeat the audio after it ends. The
+[documentation][audio] lists all available options.
 
 In lines two and three, we provide two different source files for playback. If
 the browser does not recognize the first file type, it will ignore it and move
@@ -75,14 +74,16 @@ sources within the `<video>` tag will be ignored.
 In order to provide a wide variety of different file types, we'll need to
 convert our original files. There are a number of free tools that have been
 trusted to convert audio files when needed.
-[MediaHuman - Free Audio Converter](http://www.mediahuman.com/audio-converter/)
-and [Audacity - Free Audio Editor/Converter](https://sourceforge.net/projects/audacity/) are two we recommend.
+[MediaHuman - Free Audio Converter][converter] and
+[Audacity - Free Audio Editor/Converter][audacity] are
+two we recommend.
 
 ## Conclusion
 
 With `audio` and `video` tags, the W3C gives us an open way to ensure that
 media remain accessible and open to all platforms.
 
-
 [audio]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio
 [video]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video
+[converter]: http://www.mediahuman.com/audio-converter/
+[audacity]: https://sourceforge.net/projects/audacity/
